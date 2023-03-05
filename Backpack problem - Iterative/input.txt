@@ -1,0 +1,7 @@
+10
+Shirt 7 75
+Trousers 8 150
+Hoodie 6 250
+Hat 4 35
+Scarf 3 10
+Shoes 9 100
