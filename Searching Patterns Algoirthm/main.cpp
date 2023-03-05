@@ -1,4 +1,4 @@
-#include "wzorce.cpp"
+#include "patterns.cpp"
 
 int main()
 {
