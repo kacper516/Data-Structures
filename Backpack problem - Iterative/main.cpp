@@ -1,4 +1,4 @@
-﻿#include "LibError.cpp"
+#include "LibError.cpp"
 #include "LibFiles.cpp"
 #include "LibArray.cpp"
 #include "ClassItem.cpp"
