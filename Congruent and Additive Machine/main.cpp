@@ -1,4 +1,4 @@
-﻿#include "LibError.hpp"
+#include "LibError.hpp"
 #include "LibGenerator.hpp"
 #include "LibFiles.hpp"
 #include "LibArray.hpp"
