@@ -8,8 +8,8 @@ int main()
 {
 	std::string file_name;
 	std::ifstream file;
-	int num_edges; // number of edges
-	int max; //number of verts
+	int num_edges; 		  // number of edges
+	int max; 			  //number of verts
 	int **square_array2d; // square array 2d
 	int *arraydegree;	  // array fill with degrees
 	List *vertex;		  // list of incident verts
