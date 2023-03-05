@@ -1,4 +1,4 @@
-#include <patterns.hpp>
+#include "patterns.hpp"
 
 void naiveStringMatching(std::string T, std::string p) // algorytm naiwny
 {
