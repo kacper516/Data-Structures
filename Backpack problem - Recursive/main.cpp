@@ -1,4 +1,4 @@
-﻿#include "LibBackpack_rec.cpp"
+#include "LibBackpack_rec.cpp"
 #include "LibError.cpp"
 #include "LibFiles.cpp"
 
