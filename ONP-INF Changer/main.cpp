@@ -1,4 +1,4 @@
-﻿#include "LibFiles.hpp"
+#include "LibFiles.hpp"
 #include "LibArray.hpp"
 #include "LibStack.hpp"
 #include "LibTranslation.hpp"
