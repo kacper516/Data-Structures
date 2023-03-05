@@ -1,4 +1,4 @@
-﻿#include "LibException.cpp"
+#include "LibException.cpp"
 #include "LibHuffman.cpp"
 #include "Tree.cpp"
 
